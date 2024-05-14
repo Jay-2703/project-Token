@@ -45,7 +45,7 @@ function mint(address addr, uint _amount) public {
     balances[addr] += _amount;
 }
 ```
-- This mint function is initialized to allows the contract owner to mint or create new tokens and assign them to a specific address 
+- This mint function is initialized to allows the contract owner to mint or add specified amount and assign them to a specific address
 
 ## Burn Function 
 ```solidity
