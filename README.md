@@ -57,4 +57,5 @@ function burn(address addr, uint _amount) public {
 ```
 - This burn function is initialized to allows the contract owner to burn or reduce new tokens and assign them from a specific address 
 
-
+## License
+This project is licensed under the MIT License - see the LICENSE.md file for details
